@@ -1,4 +1,4 @@
-# 1-challenge-bin-2-dec
+[Bin2Dec Challenge ](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
